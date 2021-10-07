@@ -1,0 +1,10 @@
+body {
+    margin: 0 auto;
+    font-family: Trebuchet MS;
+    font-size: 20px;
+}
+
+.homepage__header {
+    background: #ebb530;
+    height: 50px;
+}

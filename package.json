@@ -1,0 +1,25 @@
+{
+  "name": "duckbook-static-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RossKeeleySky/duckbook-static-website.git"
+  },
+  "keywords": [
+    "duck"
+  ],
+  "author": "Ross Keeley",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "bugs": {
+    "url": "https://github.com/RossKeeleySky/duckbook-static-website/issues"
+  },
+  "homepage": "https://github.com/RossKeeleySky/duckbook-static-website#readme"
+}
